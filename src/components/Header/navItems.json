@@ -1,0 +1,6 @@
+[
+  { "text": "Home", "href": "/" },
+  { "text": "About us", "href": "/#about" },
+  { "text": "Contact us", "href": "/#contact" },
+  { "text": "Help page", "href": "/#help" }
+]
